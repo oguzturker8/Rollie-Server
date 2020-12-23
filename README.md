@@ -5,7 +5,7 @@
 # Usage
 
 ###  - `git clone https://github.com/oguzturker8/Rollie-Server.git`
-###  - create `.env` file on root directory
+###  - create `.env` file in root directory
 ### .env file:
 |Variable|Value|
 |-|:-----:|
