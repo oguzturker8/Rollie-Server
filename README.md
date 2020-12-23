@@ -1,6 +1,6 @@
 # Rollie-Server
 
-# Deno Oak-GraphQL Server uses MongoDB
+#### Deno Oak-GraphQL Server uses MongoDB with `1000 iMDB +7 Movies.`
 
 # Usage
 
