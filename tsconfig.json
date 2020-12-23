@@ -1,0 +1,10 @@
+//https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-9.html#new---resolvejsonmodule
+// tsconfig.json
+
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  }
+}
